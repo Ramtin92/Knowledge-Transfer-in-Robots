@@ -6,11 +6,11 @@
 
 Gyan Tatiya, Ramtin Hosseini, Michael C. Hughes and Jivko Sinapov, "Sensorimotor Cross-Behavior Knowledge Transfer for Grounded Category Recognition", IEEE 9th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob), Oslo, Norway, Aug. 19-22, 2019.
 
-Poster:<br>
+%Poster:<br>
 <img src="https://github.com/Ramtin92/Knowledge-Transfer-in-Robots/blob/master/pics/IEEE_ICDL_EPIROB_2019_Poster.jpg" alt="drawing" width="600px"/>
 
 BibTeX:
-
+%
 
 ## Development Environment
 For our research, we used 64-bit Ubuntu 16.04 based computer with 16 GB RAM, Intel Core i7-7700 CPU (3.20 GHz x 8 cores) and NVIDIA GeForce GTX 1060 (3GB RAM, 1280 CUDA Cores).
